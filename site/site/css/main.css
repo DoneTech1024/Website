@@ -1,0 +1,30 @@
+.bar{
+    background: linear-gradient(to right ,rgb(10, 44, 116),rgb(8, 81, 190));
+   
+}
+
+.intro{
+    padding-top: 15%;
+    background: linear-gradient(to right ,rgb(10, 44, 116),rgb(8, 81, 190));
+    height: 70%;
+}
+.rounded-pill:hover{
+
+    background-color: blueviolet;
+    
+}
+.display-2{
+    text-transform: capitalize;
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.col-md-3 img:hover{
+    filter: grayscale(120);
+}
+.heading-line::before{
+    color: blue;
+}
+
+.social{
+    background-color: rgba(128, 128, 128, 0.966);
+}
